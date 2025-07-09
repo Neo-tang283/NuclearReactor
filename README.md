@@ -1,2 +1,25 @@
 # NuclearReactor
 A tiny game to illustrate the RBMK-1000 reactor
+
+
+这是一个模拟RBMK-1000核电站反应堆（也就是切尔诺贝利同款反应堆）的小游戏 ，由Neo制作
+包含正常运行状态下的核反应堆，以及切尔诺贝利事故过程演示，支持调整部分参数达到你想要的效果
+运行方式：双击运行“NuclearReactor.exe”文件即可
+
+可能有运行库缺失，请自行搜索下载
+
+本游戏模仿了国外大神对切尔诺贝利事故原理讲解的视频动画
+以下是原网址：
+【Chernobyl Visually Explained】
+https://www.youtube.com/watch?v=P3oKNE72EzU
+在b站有转载：
+【切尔诺贝利的视觉解析】
+https://www.bilibili.com/video/BV1SbD8YAEgt/
+
+现在时1.0版本，也不知道以后会不会进行修改
+
+制作过程等一些记录在下面视频合集中
+https://www.bilibili.com/video/BV1c9GxzxEmE/
+程序编写语言：c++，编写环境：VS2022，使用图形库：SDL3
+如果有什么建议也欢迎在那里留言
+感谢您的游玩
